@@ -428,6 +428,24 @@ body{
   transform: scale(1.2);
 }
 
+.certificate{
+  height: 200px;
+  width: 300px;
+  background-color: red;
+  border-radius: 10px 10px 10px 10px;
+  float: left;
+  margin: 25px;
+}
+.certificates{
+  height: 300px;
+  width: 450px;
+  background-color: red;
+  border-radius: 10px 10px 10px 10px;
+  float: left;
+  margin: 40px;
+}
+
+
 .contact .content{
   display: flex;
   justify-content: center;
